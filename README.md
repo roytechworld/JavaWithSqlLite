@@ -12,7 +12,7 @@ Ok here you need two softwares <br/>
 <br/>
 <b>Video tutorial to create setup file</b>
 </br>
-<a href="https://youtu.be/XITTQGD8V1s">Click here to view Video tutorial </a>
+<a href="https://youtu.be/XITTQGD8V1s" target="_blank">Click here to view Video tutorial </a>
 
 # Setup installation of this program
 Following is the example of one setup with extension (.exe) created and it will install both Java app and sqllite db in same installation.
