@@ -34,6 +34,7 @@ public class StarterForm extends JFrame {
 	private JPanel contentPane;
 	
 	    Connection conn = null;
+	    
 	    PreparedStatement prSt = null;
 		ResultSet rs = null;
 		String query = "select * from studentmaster";
