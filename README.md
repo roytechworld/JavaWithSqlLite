@@ -5,7 +5,7 @@ You need to buld a jar file and keep the sql lite db in path folder then use any
 
 # How to create setup for this project
 Ok here you need two softwares 
-1: "launch4j" this will convert you main jar to exe.
+1: "launch4j" this will convert you main jar to exe.</br>
 2: "Inno setup compiler" this will create wizard like installer for your project 
 
 # Setup installation of this program
