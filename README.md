@@ -5,8 +5,8 @@ You need to buld a jar file and keep the sql lite db in path folder then use any
 
 # How to create setup for this project
 Ok here you need two softwares <br/>
-1: "launch4j" this will convert you main jar to exe.<a href="https://nchc.dl.sourceforge.net/project/launch4j/launch4j-3/3.12/launch4j-3.12-win32.exe"> Download here</a></br> 
-2: "Inno setup compiler" this will create wizard like installer for your project 
+1: "launch4j" this will convert you main jar to exe.<a href="https://nchc.dl.sourceforge.net/project/launch4j/launch4j-3/3.12/launch4j-3.12-win32.exe"> Download here</a>   </br> 
+2: "Inno setup compiler" this will create wizard like installer for your project . <a href="https://mlaan2.home.xs4all.nl/ispack/innosetup-5.6.1.exe">Download here</a>
 
 # Setup installation of this program
 Following is the example of one setup with extension (.exe) created and it will install both Java app and sqllite db in same installation.
