@@ -9,9 +9,8 @@ Ok here you need two softwares <br/>
 2: "Inno setup compiler" this will create wizard like installer for your project . <a href="https://mlaan2.home.xs4all.nl/ispack/innosetup-5.6.1.exe">Download here</a>
 <br/>
 <b>Video tutorial to create setup file</b>
-1: 
-2:
-
+</br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XITTQGD8V1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Setup installation of this program
 Following is the example of one setup with extension (.exe) created and it will install both Java app and sqllite db in same installation.
